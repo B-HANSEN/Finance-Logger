@@ -1,5 +1,6 @@
 // classes
-// module system disadvantages: (1) only modern browsers support it, (2) several *.js files will be created resulting in several network requests (could overcome with webpack)
+// module system disadvantages: (1) only modern browsers support it, (2) several *.js files will be created resulting in several network requests
+// (could overcome with webpack)
 export class Invoice {
     // readonly client: string; // read also outside the class but not change value
     // private details: string; // read and write only inside class
