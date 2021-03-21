@@ -1,1 +1,2 @@
-# FinanceLogger_TypeScript
+# FinanceLogger in TypeScript
+reference file with examples
